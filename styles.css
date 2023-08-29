@@ -76,7 +76,7 @@ a{
 }
 
 .img-service{
-    width: 170px;
+    width: 160px;
 }
 
 .h-service{
@@ -95,7 +95,7 @@ a{
     flex-direction: column;
     align-items: center;
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     padding: 50px 0px;
 }
 
@@ -123,4 +123,34 @@ a{
 
 .fisio-span{
     font-weight: bold;
+}
+
+footer{
+    background-color: #272725;
+    color: #AA9F7B;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+.indicador-footer{
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.p-footer{
+    padding: 5px;
+}
+
+.redes-sociales{
+    width: 30px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.logo-footer{
+    width: 100px;
+    position: relative;
+    left: 50px;
 }
